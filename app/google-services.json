@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039854283348",
+    "firebase_url": "https://nohayferoljohnlab9.firebaseio.com",
+    "project_id": "nohayferoljohnlab9",
+    "storage_bucket": "nohayferoljohnlab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039854283348:android:6ea6da9fa5b99c7f",
+        "android_client_info": {
+          "package_name": "com.example.feroljohnnohay.nohayferoljohnlab9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039854283348-qr7sb5csnv2suo97q36e406uvql067fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feroljohnnohay.nohayferoljohnlab9",
+            "certificate_hash": "503673f2d55a22001ed3baa373a244a2001180ed"
+          }
+        },
+        {
+          "client_id": "1039854283348-abd440hqq2ivhfloj349ovo0ld4h9nav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguNGJb3TYXKZ8FzNeGkyqO3ORcdQOZhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039854283348-abd440hqq2ivhfloj349ovo0ld4h9nav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
